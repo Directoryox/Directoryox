@@ -13,6 +13,3 @@
 <a href="#"><img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.NET&logoColor=ffffff" width="100" alt=".NET badge"/></a>
 <a href="#"><img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=ffffff" width="55" alt="C# badge"/></a>
 <a href="#"><img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=csharp&logoColor=ffffff" width="65" alt="C++ badge"/></a>
-
-## Контакты
-[![Email](https://img.shields.io/badge/Email-maxvovkovich@gmail.com-blue?style=flat-square&logo=gmail)](mailto:maxvovkovich@gmail.com)
