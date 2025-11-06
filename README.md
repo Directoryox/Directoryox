@@ -10,3 +10,4 @@
 <a href="#"><img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ffffff" width="130" alt="Python badge"/></a>
 <a href="#"><img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.NET&logoColor=ffffff" width="100" alt=".NET badge"/></a>
 <a href="#"><img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=ffffff" width="55" alt="C# badge"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=ffffff" width="80" alt="Figma badge"/></a>
