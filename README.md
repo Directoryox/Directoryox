@@ -10,4 +10,4 @@
 <a href="#"><img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.NET&logoColor=ffffff" width="112" alt=".NET badge"/></a>
 <a href="#"><img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=ffffff" width="63" alt="C# badge"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=ffffff" width="132" alt="Figma badge"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Abobe Photoshop-000000?style=for-the-badge&logo=adobe-photoshop&logoColor=ffffff" width="230" alt="Abobe Photoshop badge"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Abobe Photoshop-000000?style=for-the-badge&logo=adobe-photoshop&logoColor=ffffff" width="233" alt="Abobe Photoshop badge"/></a>
