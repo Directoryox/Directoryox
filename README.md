@@ -11,5 +11,6 @@
 <a href="#"><img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=ffffff" width="63" alt="C# badge"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=ffffff" width="132" alt="Figma badge"/></a>
 <a href="#">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobephotoshop.svg" width="40" alt="Photoshop logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/adobephotoshop.svg" width="40" alt="Photoshop logo"/>
 </a>
+
