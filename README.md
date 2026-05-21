@@ -3,7 +3,7 @@
 <a href="#"><img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=ffffff" width="125" alt="HTML badge"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Сss-000000?style=for-the-badge&logo=css&logoColor=ffffff" width="107.5" alt="CSS badge"/></a>
 <a href="#"><img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ffffff" width="195" alt="JavaScript badge"/></a>
-<a href="#"><img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=ffffff" width="200" alt="TypeScript badge"/>
+<a href="#"><img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=ffffff" width="195" alt="TypeScript badge"/>
 </a>
 <a href="#"><img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=ffffff" width="190" alt="Bootstrap badge"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=ffffff" width="105" alt="Git badge"/></a>
